@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch S8",
+            "request": "launch",
+            "mainClass": "S8",
+            "projectName": "Ps java_7a7fe4e"
+        },
+        {
+            "type": "java",
+            "name": "Launch S6",
+            "request": "launch",
+            "mainClass": "S6",
+            "projectName": "Ps java_7a7fe4e"
+        },
+        {
+            "type": "java",
+            "name": "Launch S5",
+            "request": "launch",
+            "mainClass": "S5",
+            "projectName": "Ps java_7a7fe4e"
+        },
+        {
+            "type": "java",
+            "name": "Launch S4",
+            "request": "launch",
+            "mainClass": "S4",
+            "projectName": "Ps java_7a7fe4e"
+        },
+        {
+            "type": "java",
+            "name": "Launch S3",
+            "request": "launch",
+            "mainClass": "S3",
+            "projectName": "Ps java_7a7fe4e"
+        },
+        {
+            "type": "java",
             "name": "Launch S2",
             "request": "launch",
             "mainClass": "S2",
